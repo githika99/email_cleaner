@@ -1,0 +1,1 @@
+This app deletes all emails that are unread AND more than 1 month old. It worked on 3 of my accounts. When you want to log in to another user, you have to call 'rm token.json' in your terminal. You also have to create Google Developers account to get GMAIL API to work. Save the secrets file as <credentials.json>. 
